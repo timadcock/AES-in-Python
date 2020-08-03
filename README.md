@@ -19,6 +19,6 @@ python[3] AES [File] [D,E]<br>
 
 
 ## References
-https://www.youtube.com/watch?v=gP4PqVGudtg
-Rijndael.pdf
+https://www.youtube.com/watch?v=gP4PqVGudtg<br>
+Rijndael.pdf<br>
 NIST.FIPS.197.pdf
